@@ -20,5 +20,7 @@ int main(void)
   if(d < min) min = d;
   printf("最小値は%dです。\n", min);
 
+  
+  //haha manami
   return 0;
 }
